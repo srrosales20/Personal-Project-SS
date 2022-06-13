@@ -1,1 +1,9 @@
+.title {
+    background: linear-gradient(87.4deg, rgb(255, 241, 165) 1.9%, rgb(200, 125, 76) 49.7%, rgb(83, 54, 54) 100.5%);
 
+    color: white;
+text-align: center;
+text-shadow: 2px 2px 5px rgb(2, 2, 36);
+border: 5px solid brown;
+
+}
